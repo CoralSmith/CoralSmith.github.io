@@ -1,0 +1,33 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+> Corals are marine invertebrates within the class Anthozoa of the phylum Cnidaria. They typically form compact colonies of many identical individual polyps. Coral species include the important reef builders that inhabit tropical oceans and secrete calcium carbonate to form a hard skeleton. 
+
+-- [Wikipedia](https://en.wikipedia.org/wiki/Coral)
+
+Well, it's not wrong!
+
+Coral is a person who enjoys learning about things - like Corals, Cephalapods, and Cephid variables. I like understanding how things work, and how they interact. Many things that seem entirely unrelated bring me great joy.
+
+SeeCoral is probably going to be about whatever thing(s) interest the second definition of Coral (above). The resulting blog content may meander quite substantially, but it will likely maintain a theme for 6-12 months or so before I drift. 
+
+{::nomarkdown}
+<svg width="100%" height="100%" viewBox="0 0 1440 500" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="sun_gradient" gradientTransform="rotate(90)">
+            <stop offset="5%" stop-color="gold"></stop>
+            <stop offset="95%" stop-color="red"></stop>
+        </linearGradient>
+        <linearGradient id="sea_gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+            <stop offset="5%" stop-color="#4287f5"></stop>
+            <stop offset="95%" stop-color="#69c5fa"></stop>
+        </linearGradient>
+    </defs>
+    <circle cx="40%" cy="20%" r="200" fill="url(#sun_gradient)" fill-opacity="0.4"></circle>
+    <path d="M 0,500 C 0,500 0,125 0,125 C 87.39608381999315,118.91824115424254 174.7921676399863,112.83648230848506 238,120 C 301.2078323600137,127.16351769151494 340.227413260048,147.5723119203023 408,158 C 475.772586739952,168.4276880796977 572.2981793198213,168.87427001030574 650,164 C 727.7018206801787,159.12572998969426 786.5798694606665,148.93060803847476 839,145 C 891.4201305393335,141.06939196152524 937.3823428375129,143.40329783579526 1010,137 C 1082.6176571624871,130.59670216420474 1181.890759189282,115.45620061834423 1258,112 C 1334.109240810718,108.54379938165577 1387.054620405359,116.7718996908279 1440,125 C 1440,125 1440,500 1440,500 Z" stroke="none" stroke-width="0" fill="url(#sea_gradient)" fill-opacity="0.4"></path>
+    <path d="M 0,500 C 0,500 0,250 0,250 C 80.668498797664,274.43765029199585 161.336997595328,298.87530058399176 234,289 C 306.663002404672,279.12469941600824 371.3205084163518,234.93644795602884 432,219 C 492.6794915836482,203.06355204397116 549.3809687392649,215.37890759189284 606,214 C 662.6190312607351,212.62109240810716 719.1556166265887,197.54792167639982 790,203 C 860.8443833734113,208.45207832360018 945.9965647543802,234.42940570250775 1028,234 C 1110.0034352456198,233.57059429749225 1188.8581243558913,206.73445551356923 1257,205 C 1325.1418756441087,203.26554448643077 1382.5709378220545,226.63277224321538 1440,250 C 1440,250 1440,500 1440,500 Z" stroke="none" stroke-width="0" fill="url(#sea_gradient)" fill-opacity="0.53" class="transition-all duration-300 ease-in-out delay-150 path-1"></path>
+    <path d="M 0,500 C 0,500 0,375 0,375 C 57.52112676056338,379.50429405702505 115.04225352112675,384.00858811405016 179,394 C 242.95774647887325,403.99141188594984 313.3521126760563,419.4699416008245 398,404 C 482.6478873239437,388.5300583991755 581.5492957746478,342.11164548265197 653,334 C 724.4507042253522,325.88835451734803 768.4507042253523,356.08347646856754 818,372 C 867.5492957746477,387.91652353143246 922.6478873239435,389.55444864307793 998,387 C 1073.3521126760565,384.44555135692207 1168.9577464788733,377.6987289591206 1246,375 C 1323.0422535211267,372.3012710408794 1381.5211267605632,373.65063552043966 1440,375 C 1440,375 1440,500 1440,500 Z" stroke="none" stroke-width="0" fill="url(#sea_gradient)" fill-opacity="1"></path>
+</svg>
+{:/}
